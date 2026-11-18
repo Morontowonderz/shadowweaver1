@@ -1,0 +1,7 @@
+{
+  "name": "RESET CORTEX",
+  "description": "Phase 0 Universal Response Engine specification, deterministic conflict/routing inspector, live evaluation workbench, and research audit console.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
